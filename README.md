@@ -13,5 +13,12 @@ As as result, I present the Wifi SlimeVR tracker with an area 13% than that of a
 
 ## Tuff photos
 
+<img width="1008" height="846" alt="image" src="https://github.com/user-attachments/assets/bd1577b1-bc4e-4940-b9a8-f77abdedef0e" />
+<img width="951" height="649" alt="image" src="https://github.com/user-attachments/assets/e9434ef2-5839-4312-a10d-28b77297f5b5" />
+<img width="828" height="717" alt="image" src="https://github.com/user-attachments/assets/34d5001c-8703-49bb-a131-4a23b7457d74" />
+<img width="544" height="834" alt="szine" src="https://github.com/user-attachments/assets/42956c98-fa22-4109-bedf-10fb0ed4439d" />
+<img width="1240" height="976" alt="image" src="https://github.com/user-attachments/assets/9e710ca5-8a13-44f5-a445-2964b4363319" />
+<img width="1188" height="549" alt="image" src="https://github.com/user-attachments/assets/95f4ec28-2dad-4400-9306-35b70b265ca5" />
+
 
 ## How it works
