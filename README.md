@@ -22,3 +22,14 @@ As as result, I present the Wifi SlimeVR tracker with an area 13% than that of a
 
 
 ## How it works
+
+It uses SlimeVR firmware extactly like the normal trackers, and interfaces with pretty much the same hardware/pins, it's just that instead of being modules connected to modules, everything is already mounted to PCB.
+
+## BOM
+|name                 |quantity         |price|link                                                |
+|---------------------|-----------------|-----|----------------------------------------------------|
+|PCB                  |4 (however many) |n*2$ |JLCPCB, files in repo                               |
+|battery              |same as above    |n*6$ |https://es.aliexpress.com/item/1005012320035574.html|
+|strap                |comes as 1m, so 1|7.4$ |https://es.aliexpress.com/item/1005005306808140.html|
+|SOICbite (to program)|1                |1$   |https://es.aliexpress.com/item/1005006515900066.html|
+
