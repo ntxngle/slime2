@@ -1,5 +1,19 @@
-name,quantity,price,link
-PCB,4 (however many),n*2$,"JLCPCB, files in repo"
-battery,same as above,n*6$,https://es.aliexpress.com/item/1005012320035574.html
-strap,"comes as 1m, so 1",7.4$,https://es.aliexpress.com/item/1005005306808140.html
-SOICbite (to program),1,1$,https://es.aliexpress.com/item/1005006515900066.html
+"Name";"Quantity";"Footprint";"LCSC Id";"Cost (with MOQ)"
+PCB;1;;;2
+Battery;1;;;6
+Strap;1;;;7.40
+SOICbite clip;1;;;0.99
+10k;"5";"R_0402_1005Metric";C60490;"0.13 "
+2.2k;"2";"R_0402_1005Metric";C2906865;"0.16 "
+ESP-WROOM-02;"1";"ESP-WROOM-02";C81770;"1.60"
+HX MINI MSK12CO2;"1";"SW-SMD_MSK12CO2";C5149840;"0.77"
+MCP73831-2-OT;"1";"SOT-23-5";C424093;"0.78"
+ICM-45686;"1";"LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y";C22459454;"5.26"
+180k;"1";"R_0402_1005Metric";C25760;"0.11 "
+HT7833;"1";"SOT-89-3";C50936;"1.66"
+0.1uF;"5";"C_0402_1005Metric";C100072;"0.34 "
+LED;"2";"LED_0402_1005Metric";C21260817;"0.58 "
+22uF;"1";"C_0402_1005Metric";C415703;"1.07 "
+10uF;"1";"C_0402_1005Metric";C7472949;"0.64 "
+4.7uF;"1";"C_0402_1005Metric";C318563;"0.33 "
+2.7k;"1";"R_0402_1005Metric";C2906905;"0.14 "
