@@ -34,19 +34,19 @@ This bom makes one tracker. repeat as needed.
 |Battery         |1       |                                      |         |6              |
 |Strap           |1       |                                      |         |7.40           |
 |SOICbite clip   |1       |                                      |         |0.99           |
-|10k             |5       |R_0402_1005Metric                     |C60490   |0.13           |
-|2.2k            |2       |R_0402_1005Metric                     |C2906865 |0.16           |
-|ESP-WROOM-02    |1       |ESP-WROOM-02                          |C81770   |1.60           |
-|HX MINI MSK12CO2|1       |SW-SMD_MSK12CO2                       |C5149840 |0.77           |
-|MCP73831-2-OT   |1       |SOT-23-5                              |C424093  |0.78           |
-|ICM-45686       |1       |LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y|C22459454|5.26           |
-|180k            |1       |R_0402_1005Metric                     |C25760   |0.11           |
-|HT7833          |1       |SOT-89-3                              |C50936   |1.66           |
-|0.1uF           |5       |C_0402_1005Metric                     |C100072  |0.34           |
-|LED             |2       |LED_0402_1005Metric                   |C21260817|0.58           |
-|22uF            |1       |C_0402_1005Metric                     |C415703  |1.07           |
-|10uF            |1       |C_0402_1005Metric                     |C7472949 |0.64           |
-|4.7uF           |1       |C_0402_1005Metric                     |C318563  |0.33           |
-|2.7k            |1       |R_0402_1005Metric                     |C2906905 |0.14           |
+|10k             |5       |R_0402_1005Metric                     |https://www.lcsc.com/product-detail/C60490.html   |0.13           |
+|2.2k            |2       |R_0402_1005Metric                     |https://www.lcsc.com/product-detail/C2906865.html |0.16           |
+|ESP-WROOM-02    |1       |ESP-WROOM-02                          |https://www.lcsc.com/product-detail/C81770.html   |1.60           |
+|HX MINI MSK12CO2|1       |SW-SMD_MSK12CO2                       |https://www.lcsc.com/product-detail/C5149840.html |0.77           |
+|MCP73831-2-OT   |1       |SOT-23-5                              |https://www.lcsc.com/product-detail/C424093.html  |0.78           |
+|ICM-45686       |1       |LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y|https://www.lcsc.com/product-detail/C22459454.html|5.26           |
+|180k            |1       |R_0402_1005Metric                     |https://www.lcsc.com/product-detail/C25760.html   |0.11           |
+|HT7833          |1       |SOT-89-3                              |https://www.lcsc.com/product-detail/C50936.html   |1.66           |
+|0.1uF           |5       |C_0402_1005Metric                     |https://www.lcsc.com/product-detail/C100072.html  |0.34           |
+|LED             |2       |LED_0402_1005Metric                   |https://www.lcsc.com/product-detail/C21260817.html|0.58           |
+|22uF            |1       |C_0402_1005Metric                     |https://www.lcsc.com/product-detail/C415703.html  |1.07           |
+|10uF            |1       |C_0402_1005Metric                     |https://www.lcsc.com/product-detail/C7472949.html |0.64           |
+|4.7uF           |1       |C_0402_1005Metric                     |https://www.lcsc.com/product-detail/C318563.html  |0.33           |
+|2.7k            |1       |R_0402_1005Metric                     |https://www.lcsc.com/product-detail/C2906905.html |0.14           |
 
 
