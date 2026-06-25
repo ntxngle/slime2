@@ -30,10 +30,10 @@ This bom makes one tracker. repeat as needed.
 
 |Name            |Quantity|Footprint                             |LCSC Id  |Cost (with MOQ)|
 |----------------|--------|--------------------------------------|---------|---------------|
-|PCB             |1       |                                      |         |2              |
-|Battery         |1       |                                      |         |6              |
-|Strap           |1       |                                      |         |7.40           |
-|SOICbite clip   |1       |                                      |         |0.99           |
+|PCB             |1       |                                      |JLCPCB, files in repo|2              |
+|Battery         |1       |                                      |https://es.aliexpress.com/item/1005012320035574.html|6              |
+|Strap           |1       |                                      |https://es.aliexpress.com/item/1005005306808140.html|7.40           |
+|SOICbite clip   |1       |                                      |https://es.aliexpress.com/item/1005005306808140.html|0.99           |
 |10k             |5       |R_0402_1005Metric                     |https://www.lcsc.com/product-detail/C60490.html   |0.13           |
 |2.2k            |2       |R_0402_1005Metric                     |https://www.lcsc.com/product-detail/C2906865.html |0.16           |
 |ESP-WROOM-02    |1       |ESP-WROOM-02                          |https://www.lcsc.com/product-detail/C81770.html   |1.60           |
