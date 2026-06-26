@@ -48,5 +48,6 @@ This bom makes one tracker. repeat as needed.
 |10uF            |1       |C_0402_1005Metric                     |https://www.lcsc.com/product-detail/C7472949.html |0.64           |
 |4.7uF           |1       |C_0402_1005Metric                     |https://www.lcsc.com/product-detail/C318563.html  |0.33           |
 |2.7k            |1       |R_0402_1005Metric                     |https://www.lcsc.com/product-detail/C2906905.html |0.14           |
+|Total| | | |31.92|
 
 
